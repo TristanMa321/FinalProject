@@ -1,2 +1,2 @@
 # FinalProject
-We try to use 
+I try to use svm, 
